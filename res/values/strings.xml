@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BuiltLogin</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="builtLogin">Login with built.io</string>
+    <string name="userName">Username</string>
+    <string name="password">Password</string>
+    <string name="built.iologin">Login</string>
+    <string name="facebook">Login with facebook</string>
+    <string name="twitter">Login with twitter</string>
+    <string name="google">Login with google</string>
+    <string name="user_can_login_with_facebook">User can login with facebook</string>
+    <string name="user_can_login_with_twitter">User can login with twitter</string>
+    <string name="instructions">test</string>
+    <string name="username">UserName</string>
+    <string name="email">email</string>
+    <string name="authtoken">authtoken</string>
+    <string name="latitude_">Latitude -:</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude_">Longitude -:</string>
+    <string name="longitude">Longitude</string>
+    <string name="uid">uid</string>
+    <string name="facebook_login">Facebook Login</string>
+
+</resources>
